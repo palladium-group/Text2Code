@@ -1,0 +1,9 @@
+venv/
+env/
+.venv/
+.env
+
+
+lodiisenv/
+Text2sql_db.ipynb
+Text2sql_lodiis.ipynb
